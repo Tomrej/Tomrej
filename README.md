@@ -89,6 +89,12 @@
 
 ###
 
+<h3 align="left">💡   LeetCode :</h3>
+
+![LeetCode Stats](https://leetcode.card.workers.dev/Tomrej?theme=auto&font=baloo&extension=null)
+
+###
+
 <!--
 **Tomrej/Tomrej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
