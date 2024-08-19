@@ -83,7 +83,7 @@
 
 <h3 align="left">💡   LeetCode :</h3>
 <div align="center">
-![LeetCode Stats](https://leetcode.card.workers.dev/Tomrej?theme=auto&font=baloo&extension=null)
+  <img src="https://leetcode.card.workers.dev/Tomrej?theme=auto&font=baloo&extension=null" height="220" alt="leet code"  />
 </div>
 
 ###
