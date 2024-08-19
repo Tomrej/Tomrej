@@ -81,17 +81,18 @@
 
 ###
 
+<h3 align="left">💡   LeetCode :</h3>
+<div align="center">
+![LeetCode Stats](https://leetcode.card.workers.dev/Tomrej?theme=auto&font=baloo&extension=null)
+</div>
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/31p45ms7h7dd4kepq3xdrtq5t2gm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p45ms7h7dd4kepq3xdrtq5t2gm&count=5" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<h3 align="left">💡   LeetCode :</h3>
-
-![LeetCode Stats](https://leetcode.card.workers.dev/Tomrej?theme=auto&font=baloo&extension=null)
 
 ###
 
