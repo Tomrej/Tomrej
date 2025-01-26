@@ -86,7 +86,7 @@
 ###
 
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/Tomrej?theme=auto&font=baloo&extension=null" height="220" alt="leet code"  />
+  <img src="https://leetcard.jacoblin.cool/tomrej?theme=dark&font=ABeeZee" height="220" alt="leet code"  />
 </div>
 
 ###
