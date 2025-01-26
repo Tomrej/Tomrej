@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Computer Science student from Czech Republic<br><br>- 🔭 I’m working as Website Administrator and Technical Support Specialist for Bridge of Ukraine<br>- 📚 I'm currently finishing my CS50X certification<br>- ⚡ In my free time I do Linux customization</p>
+<p align="left">I'm Computer Science student from Czech Republic<br><br>- 🔭 I’m working as Website Administrator and Technical Support Specialist for Bridge of Ukraine<br>- 📚 I'm currently working on Google Cybersecurity Professional Certificate<br>- ⚡ In my free time I do Linux customization</p>
 
 ###
 
