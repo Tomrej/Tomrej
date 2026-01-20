@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Computer Science student from Czech Republic<br><br>- 🔭 I’m working as Website Administrator and Technical Support Specialist for Bridge of Ukraine<br>- 📚 I'm currently working on Google Cybersecurity Professional Certificate<br>- ⚡ In my free time I do Linux customization</p>
+<p align="left">I'm Computer Science student from Czech Republic<br><br>- 🔭 I’m working as Website Administrator and Technical Support Specialist for Bridge of Ukraine<br>- 📚 I'm currently working on Comptia Security+<br>- ⚡ Linux enthusiastic</p>
 
 ###
 
@@ -65,18 +65,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" height="40" alt="hugo logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tomrej&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
